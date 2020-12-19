@@ -56,7 +56,7 @@ lastfm_artist_client:
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://jat2167_final_mds.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://jat2167-final-project-back-up-.readthedocs.io/en/latest/
 
 ## Contributors
 
